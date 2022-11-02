@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "574021065794",
+    "project_id": "ignite-smarani",
+    "storage_bucket": "ignite-smarani.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574021065794:android:db06b43dbeb527d43a21db",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574021065794-9n49l8mlu22dqjj1rirm71unmafrduns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtabA9y8PiWx-7azO_tScYbtys4VIYFEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574021065794-9n49l8mlu22dqjj1rirm71unmafrduns.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "574021065794-qlcu9sddvavkv97d1fuq2thl11esr128.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.myApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
